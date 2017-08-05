@@ -1,0 +1,21 @@
+---
+permalink: /contact/
+title: "Contact"
+excerpt: "Contact me"
+author_profile: true
+---
+
+Dr. Volker Seeker
+
+[University of Edinburgh](http://www.ed.ac.uk/)
+
+**Email:** volker [dot] seeker [at] ed [dot] ac [dot] uk  
+**Phone:** TBA
+
+**Postal Address:**  
+University of Edinburgh  
+School of Informatics  
+Informatics Forum  
+10 Crichton Street  
+Edinburgh EH8 9AB  
+United Kingdom  
