@@ -22,6 +22,10 @@ computer interaction. I like to think that machine learning
 approaches and heterogeneous processing have high potential of 
 bringing the research forward in these areas.
 
+In my role as University Teacher I am also interested in exploring
+which teaching tools and methods can optimally help students understand
+the concepts of computer science.
+
 # Short Biography
 
 * Since Aug. '17: Univeristy Teacher  
