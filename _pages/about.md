@@ -13,7 +13,7 @@ at the [University of Edinburgh](http://www.ed.ac.uk/).
 
 # Research Interests
 
-I am interested in mobile and embedded computing, particularly
+I am interested in **mobile and embedded computing**, particularly
 in making mobile solutions more energy efficient. My focus lies
 on finding software solutions to save energy consumption whilst
 keeping the quality of experience for end users high. In so doing
