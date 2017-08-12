@@ -172,10 +172,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  past-teaching:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:
