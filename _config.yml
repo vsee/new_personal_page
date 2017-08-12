@@ -212,6 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _past-teaching
+  - scope:
+      path: ""
+      type: past-teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
