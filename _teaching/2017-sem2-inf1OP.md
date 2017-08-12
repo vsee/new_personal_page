@@ -9,4 +9,5 @@ location: "Edinburgh, UK"
 excerpt: ""
 ---
 
-<div class=notice--warning style="font-size: 20px !important; color: #FF0000;">This page is still under construction.</div>
+This page is still under construction. 
+{: .notice--warning}
