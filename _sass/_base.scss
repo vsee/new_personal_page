@@ -47,6 +47,13 @@ h6 {
   font-size: $type-size-6;
 }
 
+.section {
+  border-bottom: 2px solid #C7C6C6;
+  padding-bottom: 8px;
+  line-height: 1.75em;
+  font-weight: normal;
+}
+
 small, .small {
   font-size: $type-size-6;
 }
