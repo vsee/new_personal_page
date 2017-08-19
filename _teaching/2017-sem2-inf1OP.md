@@ -8,6 +8,8 @@ date: 2017-01-01
 location: "Edinburgh, UK"
 excerpt: ""
 ---
+[Official Course Descriptor](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08014.htm){: .btn .btn--large .btn--info}
+[Last year's page](http://www.inf.ed.ac.uk/teaching/courses/inf1/op/){: .btn .btn--large .btn--info} 
 
-This page is still under construction. 
+This year's page is still under construction. 
 {: .notice--warning}
