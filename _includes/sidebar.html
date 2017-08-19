@@ -3,6 +3,14 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+
+  {% if page.news_ticker %}
+  {% capture written_year %}'None'{% endcapture %}
+  {% for post in site.posts limit:2 %}
+      {% include archive-single.html %}
+  {% endfor %}
+  {% endif %}
+
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
