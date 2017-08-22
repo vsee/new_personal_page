@@ -12,6 +12,7 @@ Dr. Volker Seeker
 
 **Email:** volker [dot] seeker [at] ed [dot] ac [dot] uk  
 **Phone:** TBA
+**Skype:** vseeker@ed.ac.uk
 
 **Postal Address:**  
 University of Edinburgh    
