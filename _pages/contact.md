@@ -21,3 +21,5 @@ Informatics Forum
 10 Crichton Street  
 Edinburgh EH8 9AB  
 United Kingdom  
+
+<iframe src="https://calendar.google.com/calendar/embed?title=Academic%20Calendar&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=um2rthq5f65h34s0ol3hhqidck%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
