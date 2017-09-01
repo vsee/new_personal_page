@@ -17,7 +17,7 @@ Dr. Volker Seeker
 **Postal Address:**  
 University of Edinburgh    
 School of Informatics  
-Informatics Forum  
+Informatics Forum, Room 1.21  
 10 Crichton Street  
 Edinburgh EH8 9AB  
 United Kingdom  
