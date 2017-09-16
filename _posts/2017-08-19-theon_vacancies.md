@@ -7,11 +7,10 @@ tags:
 ---
 
 The new year is starting soon and many courses, including my own are still in need
-of teaching support. I need **tutors**, **demonstrators** and a **teaching assistant** for my
-second semester course [Inf1-OOP]({{ site.url }}{{ site.baseurl }}/teaching/2017-sem2-inf1OP).
-
-If you have good knowledge of Java and a fair idea of object oriented programming, please
-apply for one of the positions. 
+of teaching support. I need **tutors**, **demonstrators**, **markers** and **teaching assistants** for the
+second semester course [Inf1-OOP]({{ site.url }}{{ site.baseurl }}/teaching/inf1OP),
+the postgraduate first semester course [Extreme Computing]({{ site.url }}{{ site.baseurl }}/teaching/exc) and
+the full year undergraduate [Programming Club]({{ site.url }}{{ site.baseurl }}/teaching/pgclub).
 
 The application process in a nutshell:
 
