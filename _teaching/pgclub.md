@@ -18,5 +18,8 @@ have the chance to work on different challenges and fun programming projects.
 
 I am co-teaching this course with [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/).
 
+[![Welcome Lecture]({{ site.url }}{{ site.baseurl }}/images/icon-slides.png)]({{ site.url }}{{ site.baseurl }}/files/talks/welcomelecture_ad.pdf) Welcome Lecture
+
 **We are still in need of demonstrators. [Apply here!]({{ site.url }}{{ site.baseurl }}/posts/2017/19/teaching_support)**
 {: .notice--warning .text-center}
+
