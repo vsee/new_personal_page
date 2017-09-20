@@ -1,5 +1,5 @@
 ---
-title: 'Teaching Support Needed'
+title: 'Programming Club Web Launch'
 date: 2017-09-20
 permalink: /posts/2017/09/20/pgclub_launch/
 tags:
