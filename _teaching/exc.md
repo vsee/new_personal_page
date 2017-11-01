@@ -12,6 +12,3 @@ excerpt: ""
 [Course Page](http://www.inf.ed.ac.uk/teaching/courses/exc/){: .btn .btn--large .btn--info} 
 
 This is the most popular elective in the school, with 270 fourth-year undergraduates and MSc students. A few lecture slots are available for companies to give a talk on practical distributed systems with a recruiting slide at the end.
-
-**We are still in need of demonstrators and markers. [Apply here!]({{ site.url }}{{ site.baseurl }}/posts/2017/19/teaching_support)**
-{: .notice--warning .text-center}
