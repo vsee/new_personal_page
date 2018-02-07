@@ -19,7 +19,7 @@ University of Edinburgh
 School of Informatics  
 Appleton Tower, Room 3.06  
 11 Crichton Street  
-Edinburgh EH8 9LE 
+Edinburgh EH8 9LE  
 United Kingdom  
 
 **Arranging a Meeting**
