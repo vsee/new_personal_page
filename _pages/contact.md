@@ -17,8 +17,8 @@ Dr. Volker Seeker
 **Postal Address:**  
 University of Edinburgh    
 School of Informatics  
-Appleton Tower, Room 3.06 
-11 Crichton Street  
+Appleton Tower, Room 3.06  
+11 Crichton Street  
 Edinburgh EH8 9LE 
 United Kingdom  
 
