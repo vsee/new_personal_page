@@ -1,10 +1,9 @@
 ---
 title: "Programming Club"
 collection: teaching
-type: "Undergraduate course, Co-Organiser"
+type: "Undergraduate Peer-Learning Activity, Co-Organiser"
 permalink: /teaching/pgclub
 venue: "University of Edinburgh, School of Informatics"
-date: 2017-09-01
 location: "Edinburgh, UK"
 excerpt: ""
 ---

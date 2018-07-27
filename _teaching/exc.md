@@ -1,14 +1,13 @@
 ---
 title: "Extreme Computing (INFR11088)"
 collection: teaching
-type: "Postgraduate course, Co-Lecturer"
+type: "Honours course, Co-Lecturer"
 permalink: /teaching/exc
 venue: "University of Edinburgh, School of Informatics"
-date: 2017-01-01
 location: "Edinburgh, UK"
 excerpt: ""
 ---
-[Official Course Descriptor](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11088.htm){: .btn .btn--large .btn--info}
+[Official Course Descriptor](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11088.htm){: .btn .btn--large .btn--info}
 [Course Page](http://www.inf.ed.ac.uk/teaching/courses/exc/){: .btn .btn--large .btn--info} 
 
-This is the most popular elective in the school, with 270 fourth-year undergraduates and MSc students. A few lecture slots are available for companies to give a talk on practical distributed systems with a recruiting slide at the end.
+This is one of the most popular electives in the school, with hundreds of fourth-year undergraduates and MSc students. A few lecture slots are available for companies such as Google, Microsoft, Amazon, Intel or Facebook to give talks on practical distributed systems and recruitment options.

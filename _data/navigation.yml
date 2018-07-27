@@ -12,5 +12,5 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "News"
-    url: /year-archive/ 
+#  - title: "News"
+#    url: /year-archive/ 
