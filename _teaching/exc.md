@@ -12,4 +12,4 @@ excerpt: ""
 
 This is one of the most popular electives in the school, with hundreds of fourth-year undergraduates and MSc students. A few lecture slots are available for companies such as Google, Microsoft, Amazon, Intel or Facebook to give talks on practical distributed systems and recruitment options.
 
-[!!! Now Hiring Teaching Support !!!]({{ site.url }}{{ site.baseurl }}/posts/2018/08/30/teaching_support/){: .btn .btn--success .btn--x-large}
+<!-- [!!! Now Hiring Teaching Support !!!]({{ site.url }}{{ site.baseurl }}/posts/2018/08/30/teaching_support/){: .btn .btn--success .btn--x-large} -->
