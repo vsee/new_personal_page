@@ -3,3 +3,10 @@ A Github Pages template for academic websites. This was forked (then detached) b
 # News Ticker
 
 add ```news_ticker: true``` to header in page to activate side bar news items
+
+# Setup
+
+1. install bundle
+2. install correct ruby dev requirements
+```sudo apt-get install ruby`ruby -e 'puts RUBY_VERSION[/\d+\.\d+/]'`-dev```
+3. run bundle install (install dependencies)

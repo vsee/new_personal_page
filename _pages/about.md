@@ -11,7 +11,7 @@ redirect_from:
 I am a University Teacher in the [School of Informatics](http://www.ed.ac.uk/informatics/)
 at the [University of Edinburgh](http://www.ed.ac.uk/).
 
-<!-- [!!! Now Hiring Teaching Support !!!]({{ site.url }}{{ site.baseurl }}/posts/2018/08/30/teaching_support/){: .btn .btn--success .btn--x-large} -->
+[!!! Now Hiring Teaching Support !!!]({{ site.url }}{{ site.baseurl }}/posts/teaching_support/){: .btn .btn--success .btn--x-large}
 
 # Research Interests
 
