@@ -172,9 +172,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  past-teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -207,15 +204,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _past-teaching
-  - scope:
-      path: ""
-      type: past-teaching
     values:
       layout: single
       author_profile: true

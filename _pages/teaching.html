@@ -8,18 +8,9 @@ author_profile: true
 {% include base_path %}
 
 <p>
-My teaching activities for the current academic year and 
-my past experience:
+My teaching previous teaching activities include:
 </p>
 
-<h1 class="section">Current Teaching</h1>
-
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h1 class="section">Past Teaching</h1>
-
-{% for post in site.past-teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}

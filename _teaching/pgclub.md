@@ -16,8 +16,3 @@ have the chance to work on different challenges and fun programming projects.
 [Official page](http://progclub.inf.ed.ac.uk){: .btn .btn--large .btn--info}
 
 I am co-teaching this course with [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/).
-
-[!!! Now Hiring Teaching Support !!!]({{ site.url }}{{ site.baseurl }}/posts/teaching_support/){: .btn .btn--success .btn--x-large}
-
-<!-- [![Welcome Lecture]({{ site.url }}{{ site.baseurl }}/images/icon-slides.png)]({{ site.url }}{{ site.baseurl }}/files/talks/welcomelecture_ad.pdf) Welcome Lecture -->
-
