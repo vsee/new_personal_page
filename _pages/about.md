@@ -8,29 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a University Teacher in the [School of Informatics](http://www.ed.ac.uk/informatics/)
-at the [University of Edinburgh](http://www.ed.ac.uk/).
+I am a Research Associate with the [School of Informatics](http://www.ed.ac.uk/informatics/) at the [University of Edinburgh](http://www.ed.ac.uk/).
 
-[!!! Now Hiring Teaching Support !!!]({{ site.url }}{{ site.baseurl }}/posts/teaching_support/){: .btn .btn--success .btn--x-large}
+I am a member of the **Institute for Computing Systems Architecture** (ICSA).
+
+I am currently working as researcher on the **Quicksilver** project with
+[Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) and previously on the **Dividend** with [Zheng Wang](https://eps.leeds.ac.uk/computing/staff/6452/dr-zheng-wang).
 
 # Research Interests
 
-I am interested in **mobile and embedded computing**, particularly
-in making mobile solutions more energy efficient. My focus lies
-on finding software solutions to save energy consumption whilst
-keeping the quality of experience for end users high. In so doing
-I am looking into the areas of both embedded programming and human
-computer interaction. I like to think that machine learning
-approaches and heterogeneous processing have high potential of
-bringing the research forward in these areas.
+My research interests include:
 
-In my role as University Teacher I am also interested in exploring
-which teaching tools and methods can optimally help students understand
-the concepts of computer science.
+* energy efficient mobile computing
+* scheduling for heterogeneous systems
+* parallel programming pattern
+* compiler architecture
 
 # Short Biography
 
-* Since Aug. '17: University Teacher  
+* Since Apr. '20: Research Associate
+School of Informatics, University of Edinburgh
+* Aug. '17 - Apr. '20: University Teacher  
 School of Informatics, University of Edinburgh
 * May. '16 - Jun. '17: Research Associate  
 School of Computing and Communications, Lancaster University
