@@ -13,7 +13,8 @@ I am a Research Associate with the [School of Informatics](http://www.ed.ac.uk/i
 I am a member of the **Institute for Computing Systems Architecture** (ICSA).
 
 I am currently working as researcher on the **Quicksilver** project with
-[Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) and previously on the **Dividend** with [Zheng Wang](https://eps.leeds.ac.uk/computing/staff/6452/dr-zheng-wang).
+[Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) and previously on the **Dividend** 
+project with [Zheng Wang](https://eps.leeds.ac.uk/computing/staff/6452/dr-zheng-wang).
 
 # Research Interests
 
@@ -26,7 +27,7 @@ My research interests include:
 
 # Short Biography
 
-* Since Apr. '20: Research Associate
+* Since Apr. '20: Research Associate  
 School of Informatics, University of Edinburgh
 * Aug. '17 - Apr. '20: University Teacher  
 School of Informatics, University of Edinburgh

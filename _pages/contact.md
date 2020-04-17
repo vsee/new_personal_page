@@ -24,4 +24,4 @@ United Kingdom
 
 **Arranging a Meeting**
 
-Please find a suitable time for you on my [Meet-Me](https://doodle.com/vseeker) page.
+Please find a suitable time for you on my [Bookable Calendar](https://doodle.com/mm/volkerseeker/book-a-time).
