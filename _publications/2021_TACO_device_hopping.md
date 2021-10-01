@@ -16,4 +16,4 @@ of migratable kernels.
 
 # Resources
 
-[Paper](https://www.research.ed.ac.uk/en/publications/device-hopping-transparent-mid-kernel-runtime-switching-for-heter)
+[Paper](https://dl.acm.org/doi/10.1145/3471909)
