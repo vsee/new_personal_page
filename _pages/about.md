@@ -10,22 +10,20 @@ redirect_from:
 
 I am a Research Associate with the [School of Informatics](http://www.ed.ac.uk/informatics/) at the [University of Edinburgh](http://www.ed.ac.uk/).
 
-I am a member of the **Institute for Computing Systems Architecture** (ICSA).
-
-I am currently working as researcher on the **Quicksilver** project with
-[Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) and previously on the **Dividend** 
-project with [Zheng Wang](https://eps.leeds.ac.uk/computing/staff/6452/dr-zheng-wang).
+I am currently working as researcher as part of the **Institute for Computing Systems Architecture** (ICSA) with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/) and 
+[Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/).
 
 # Research Interests
 
-My research interests include:
+I am interested in computer systems such as operating systems and compilers
+and how machine learning techniques can be used to optimize them.
+Specifically, I have worked on:
 
 * energy efficient mobile computing
 * scheduling for heterogeneous systems
-* parallel programming pattern
-* compiler architecture
+* compiler optimization
 
-# Short Biography
+# Short Bio
 
 * Since Apr. '20: Research Associate  
 School of Informatics, University of Edinburgh

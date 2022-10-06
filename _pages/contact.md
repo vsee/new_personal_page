@@ -21,7 +21,3 @@ Appleton Tower, Room 5.02
 11 Crichton Street  
 Edinburgh EH8 9LE  
 United Kingdom  
-
-**Arranging a Meeting**
-
-Please find a suitable time for you on my [Bookable Calendar](https://doodle.com/mm/volkerseeker/book-a-time).
