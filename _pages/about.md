@@ -8,24 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate with the [School of Informatics](http://www.ed.ac.uk/informatics/) at the [University of Edinburgh](http://www.ed.ac.uk/).
+Hi! I am AI scientist at Meta AI research in Menlo Park, California.  
 
-I am currently working as researcher as part of the **Institute for Computing Systems Architecture** (ICSA) with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/) and 
-[Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/).
+I am originally from Berlin in Germany but spent a long time at the University of Edinburgh in Scotland as part of the **Institute for Computing Systems Architecture** (ICSA) with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/) and [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/).
 
 # Research Interests
 
-I am interested in computer systems such as operating systems and compilers
-and how machine learning techniques can be used to optimize them.
-Specifically, I have worked on:
+My research interests are in the field of systems optimization, especially in using machine learning techniques to optimize operating systems and compilers. These are a few things I have been working on:
 
-* energy efficient mobile computing
-* scheduling for heterogeneous systems
-* compiler optimization
+* Large Language Models to optimize code compilation
+* Autotuning of compilers
+* Energy efficient scheduling of kernels for heterogeneous systems
+* Optimizing energy efficiency of interactive mobile workloads
+* Fast instruction set simulation
 
 # Short Bio
 
-* Since Apr. '20: Research Associate  
+* Since May. '23: Visiting Researcher  
+Meta AI Research, Menlo Park California, USA
+* Apr. '20 - Apr. '23: Research Associate    
 School of Informatics, University of Edinburgh
 * Aug. '17 - Apr. '20: University Teacher  
 School of Informatics, University of Edinburgh
