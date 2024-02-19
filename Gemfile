@@ -27,3 +27,5 @@ end
 
 # include a javascript runtime
 gem "therubyracer"
+
+gem "webrick"
