@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am AI scientist at Meta AI research in Menlo Park, California.  
+I am an AI scientist at Meta AI research in Menlo Park, California.  
 
-I am originally from Berlin in Germany but spent a long time at the University of Edinburgh in Scotland as part of the **Institute for Computing Systems Architecture** (ICSA) with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/) and [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/).
+Originally from Berlin in Germany, I was a research graduate student and later teaching staff and research associate at the University of Edinburgh in Scotland. As part of the **Institute for Computing Systems Architecture** (ICSA) I did systems research with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/), [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) and many others.
 
 # Research Interests
 
