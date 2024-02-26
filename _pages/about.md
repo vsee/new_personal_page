@@ -10,7 +10,7 @@ redirect_from:
 
 I am an AI scientist at Meta AI research in Menlo Park, California.  
 
-Originally from Berlin in Germany, I was a research graduate student and later teaching staff and research associate at the University of Edinburgh in Scotland. As part of the **Institute for Computing Systems Architecture** (ICSA) I did systems research with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/), [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) among others. In May 2023, I joined the Fundamental AI Research Team at Meta in California.
+Originally from Berlin in Germany, I was a research graduate student and later teaching staff and research associate at the University of Edinburgh in Scotland. As part of the **Institute for Computing Systems Architecture** (ICSA) I did systems research with [Bj&ouml;rn Franke](https://blog.inf.ed.ac.uk/bfranke/) and [Hugh Leather](http://homepages.inf.ed.ac.uk/hleather/) among others. In 2023, I joined the Fundamental AI Research Team at Meta in California.
 
 # Research Interests
 
