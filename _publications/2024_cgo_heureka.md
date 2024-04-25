@@ -1,12 +1,15 @@
 ---
-title: 'Revealing Compiler Heuristics through Automated Discovery and Optimization'
+title: '[Best Paper] Revealing Compiler Heuristics through Automated Discovery and Optimization'
 collection: publications
 permalink: /publication/2024_cgo_heureka
 excerpt: 'We present Heureka, a tool to automatically discover heuristic functions in compiler source code.'
 date: 2024-02-19
 venue: 'CGO'
-citation: 'TBD'
+citation: 'V. Seeker, C. Cummins, M. Cole, B. Franke, K. Hazelwood and H. Leather, "Revealing Compiler Heuristics Through Automated Discovery and Optimization," 2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO), Edinburgh, United Kingdom, 2024, pp. 55-66, doi: 10.1109/CGO57630.2024.10444847.'
 ---
+
+![Best Paper Award]({{ site.url }}{{ site.baseurl }}/images/icon-award.png)
+**Distinguished Paper Award**
 
 # Abstract
 
@@ -14,4 +17,10 @@ Tuning compiler heuristics and parameters is well known to improve optimization 
 
 # Resources
 
-[![Paper Preprint]({{ site.url }}{{ site.baseurl }}/images/icon-pdf.png)]({{ site.url }}{{ site.baseurl }}/files/papers/cgo24_heureka_preprint.pdf)
+**Paper Preprint**:  
+[![Paper Preprint]({{ site.url }}{{ site.baseurl }}/images/icon-pdf.png)]({{ site.url }}{{ site.baseurl }}/files/papers/cgo24_heureka_preprint.pdf)  
+
+**Paper IEEE**:  
+[![Paper IEEE]({{ site.url }}{{ site.baseurl }}/images/icon-pdf.png)](https://ieeexplore.ieee.org/abstract/document/10444847)  
+
+

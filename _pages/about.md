@@ -24,7 +24,9 @@ My research interests are in the field of systems optimization, especially in us
 
 # Short Bio
 
-* Since May. '23: Visiting Researcher  
+* Since Apr. '24: Research Engineer  
+Meta AI Research, Menlo Park California, USA
+* May. '23 - Apr. '24: Visiting Researcher  
 Meta AI Research, Menlo Park California, USA
 * Apr. '20 - Apr. '23: Research Associate    
 School of Informatics, University of Edinburgh

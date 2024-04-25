@@ -1,5 +1,5 @@
 ---
-title: "Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices"
+title: "[Best Paper] Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices"
 collection: publications
 permalink: /publication/2014_IISWC_lagmarking
 excerpt: 'This paper introduces a novel methodology to automatically quantify user perceived system response
